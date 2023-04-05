@@ -1,12 +1,24 @@
 @import url(style.css);
+
 :root {
     --cor-de-fundo: #EBECEE;
 }
-body{
+
+body {
     background-color: var(--cor-de-fundo);
 }
-h1{
+
+h1 {
     text-align: center;
     background-color: #2D1CC6;
+    color: white;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    height: 200px;
+    height: 200px;
+}
+
+.inicio{
+    font-size: 30px;
     color: white;
 }
